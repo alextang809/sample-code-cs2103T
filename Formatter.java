@@ -6,7 +6,7 @@ To create a package, you put a package statement at the very top of every source
 
 /*
 The Formatter class below (in <source folder>/seedu/tojava/util/Formatter.java file) is in the package seedu.tojava.util. When it is compiled, the Formatter.class file will be in the location <compiler output folder>/seedu/tojava/util:
-8?
+*/
 
 public class Formatter {
     public static final String PREFIX = ">>";
