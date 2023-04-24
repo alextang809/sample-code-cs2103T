@@ -13,7 +13,7 @@ interface TypeConverter<T, R> {
     R convert(T input);
 }
 
-public class Main {
+public class HigherOrderFunctionExplain {
     public static <T> T addNumbers(Adder<T> adder, T firstNumber, T secondNumber) {
         return adder.add(firstNumber, secondNumber);
     }
